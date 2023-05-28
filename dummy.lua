@@ -1,4 +1,4 @@
-{
+return {
   "chezz",
   "rose"
 }
