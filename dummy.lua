@@ -4,5 +4,6 @@ return {
   "YAVF",
   "ahsanterlalukuat",
   "IVNexBbAsEks",
-  "Alpha0001"
+  "Alpha0001",
+  "AtseWinata"
 }
