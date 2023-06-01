@@ -8,7 +8,8 @@ return {
   "AtseWinata",
   "ShouldB",
   "Rmmbsus1",
-  "TBBQ27IPD"
+  "TBBQ27IPD",
+  "OMZU"
   }
 
 
