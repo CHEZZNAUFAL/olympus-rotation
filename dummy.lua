@@ -10,7 +10,8 @@ return {
   "Rmmbsus1",
   "TBBQ27IPD",
   "OMZU",
-  "REXZYYYYY"
+  "REXZYYYYY",
+  "jukecox5"
   }
 
 
