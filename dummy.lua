@@ -11,7 +11,8 @@ return {
   "TBBQ27IPD",
   "OMZU",
   "REXZYYYYY",
-  "jukecox5"
+  "jukecox5",
+  "frezeekinh"
   }
 
 
