@@ -9,7 +9,8 @@ return {
   "ShouldB",
   "Rmmbsus1",
   "TBBQ27IPD",
-  "OMZU"
+  "OMZU",
+  "REXZYYYYY"
   }
 
 
