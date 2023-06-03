@@ -19,7 +19,8 @@ return {
   "suspnb3",
   "midori00",
   "raji030",
-  "W2lNOT"
+  "W2lNOT",
+  "jaausik"
   }
 
 
