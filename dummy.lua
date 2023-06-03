@@ -1,7 +1,7 @@
 return {
   "HELLRAME13",
   "ArrSukaSuspend",
-  "YAVF",
+
   "ahsanterlalukuat",
   "IVNexBbAsEks",
   "Alpha0001",
@@ -20,8 +20,10 @@ return {
   "midori00",
   "raji030",
   "W2lNOT",
-  "jaausik"
+  "jaausik",
+  "BIZFA"
   }
+  
 
 
 
