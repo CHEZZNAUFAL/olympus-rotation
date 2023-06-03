@@ -16,7 +16,9 @@ return {
   "2setdefa",
   "Marachy",
   "5Sayamaubot",
-  "suspnb3"
+  "suspnb3",
+  "midori00",
+  "raji030"
   }
 
 
