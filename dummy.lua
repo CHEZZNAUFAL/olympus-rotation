@@ -27,7 +27,9 @@ return {
   "babyciss",
   "Zponx",
   "Kritup1",
-  "cacosir2"
+  "cacosir2",
+  "BoxOfOrange",
+  "AKMALGTiii"
   }
   
 
