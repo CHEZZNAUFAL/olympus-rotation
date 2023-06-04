@@ -30,7 +30,8 @@ return {
   "cacosir2",
   "BoxOfOrange",
   "AKMALGTiii",
-  "TikusTanah"
+  "TikusTanah",
+  "Xyzkyy"
   }
   
 
