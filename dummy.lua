@@ -29,7 +29,8 @@ return {
   "Kritup1",
   "cacosir2",
   "BoxOfOrange",
-  "AKMALGTiii"
+  "AKMALGTiii",
+  "TikusTanah"
   }
   
 
