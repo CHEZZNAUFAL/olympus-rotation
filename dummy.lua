@@ -33,7 +33,8 @@ return {
   "TikusTanah",
   "Xyzkyy",
   "SlebewKaya",
-  "lyrajel"
+  "lyrajel",
+  "kutukaji42"
   }
   
 
