@@ -31,7 +31,9 @@ return {
   "BoxOfOrange",
   "AKMALGTiii",
   "TikusTanah",
-  "Xyzkyy"
+  "Xyzkyy",
+  "SlebewKaya",
+  "lyrajel"
   }
   
 
