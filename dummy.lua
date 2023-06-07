@@ -39,7 +39,8 @@ return {
   "markofoy12",
   "IKEMASU",
   "EcoEnzym",
-  "adixuno1"
+  "adixuno1",
+  "SOBERNIK"
 }
   
 
