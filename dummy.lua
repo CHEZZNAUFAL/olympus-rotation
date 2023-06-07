@@ -40,7 +40,8 @@ return {
   "IKEMASU",
   "EcoEnzym",
   "adixuno1",
-  "SOBERNIK"
+  "SOBERNIK",
+  "PUPOLL"
 }
   
 
