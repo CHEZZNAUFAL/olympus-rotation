@@ -1,4 +1,4 @@
-return {
+return{
   "HELLRAME13",
   "ArrSukaSuspend",
   "ahsanterlalukuat",
