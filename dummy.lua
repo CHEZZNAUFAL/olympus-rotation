@@ -42,7 +42,8 @@ return{
   "adixuno1",
   "SOBERNIK",
   "PUPOLL",
-  "badut999"
+  "badut999",
+  "BosButs"
 }
   
 
