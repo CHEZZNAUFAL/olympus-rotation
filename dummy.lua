@@ -43,10 +43,9 @@ return{
   "SOBERNIK",
   "PUPOLL",
   "badut999",
-  "BosButs",
-  "wyUO",
-  "saminamenx"
+  "BosButs"
 }
+
   
 
 
