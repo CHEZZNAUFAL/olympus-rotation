@@ -44,7 +44,8 @@ return{
   "PUPOLL",
   "badut999",
   "BosButs",
-  "wyUO"
+  "wyUO",
+  "saminamenx"
 }
   
 
