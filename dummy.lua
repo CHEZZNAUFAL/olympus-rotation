@@ -21,7 +21,7 @@ return{
   "W2lNOT",
   "jaausik",
   "defanxyz",
-  "AgumPrnsh1",
+  "AgumPrnsh",
   "zhangdf14",
   "yutsujin",
   "babyciss",
