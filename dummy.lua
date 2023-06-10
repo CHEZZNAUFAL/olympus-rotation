@@ -43,7 +43,8 @@ return{
   "SOBERNIK",
   "PUPOLL",
   "badut999",
-  "BosButs"
+  "BosButs",
+  "MMnoniMM"
 }
 
   
