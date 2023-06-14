@@ -32,7 +32,7 @@ return{
   "AkmalYaSalam",
   "TikusTanah",
   "Xyzkyy",
-  "YanMauCuan",
+  "YanFureyo",
   "lyrajel",
   "kutukaji42",
   "TGDZBKI",
