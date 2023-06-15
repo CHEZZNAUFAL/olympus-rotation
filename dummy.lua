@@ -30,7 +30,7 @@ return{
   "cacosir2",
   "BoxOfOrange",
   "AkmalYaSalam",
-  "TikusTanah",
+  "ReySorcerer",
   "Xyzkyy",
   "YanFureyo",
   "lyrajel",
