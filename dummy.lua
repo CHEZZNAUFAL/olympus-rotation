@@ -32,7 +32,7 @@ return{
   "AkmalYaSalam",
   "ReySorcerer",
   "Mwb2tklfpr",
-  "YanFureyo",
+  "PersonalBanget",
   "lyrajel",
   "kutukaji42",
   "TGDZBKI",
